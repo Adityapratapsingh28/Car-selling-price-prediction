@@ -1,6 +1,6 @@
 ## Car-selling-price-prediction
 This Repository contains a ML model which will predict the selling price of a second hand car based on the features like - km_driven , fuel , seller_type , owner.
-Polynomial Regression Algorihtm is used to train the model and test upon varoius testing datasets.
+Polynomial Regression Algorithm is used to train the model and test upon various testing datasets.
 
 Kaggle link of dataset - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
