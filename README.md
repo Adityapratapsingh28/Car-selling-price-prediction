@@ -1,7 +1,11 @@
-# Car-selling-price-prediction
-This Repository contains a ML model which will predict the selling price of a second hand car based on the features as - km_driven fuel,seller_type,owner.
+## Car-selling-price-prediction
+This Repository contains a ML model which will predict the selling price of a second hand car based on the features like - km_driven , fuel , seller_type , owner.
+Polynomial Regression Algorihtm is used to train the model and test upon varoius testing datasets.
+
 Kaggle link of dataset - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
-##STEP BY STEP PROCESS FOLLOWED TO TRAIN THE MODEL
+
+## Structure of the model
+
 1. Download and load the dataset
 2. Data Preparation and Cleaning
 3. Changing the column values of dataset for model training
@@ -9,3 +13,11 @@ Kaggle link of dataset - https://www.kaggle.com/datasets/nehalbirla/vehicle-data
 5. Splitting the dataset
 6. Evaluating the model for training data
 7. Scope for improvement
+
+## Algorithm used
+- Polynomial Regression
+## Technology used
+- Python
+- Pandas (for data reading and manipulation)
+- scikit-learn (for traning testing and operation on data)
+- Matplotlib (for data visualization)
